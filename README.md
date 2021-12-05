@@ -11,4 +11,4 @@ AquaList is a project made to simplify the Maintenance of feed in the Aqua Farmi
 
 -Edit your values daily and leve everything to the AquaList
 
--The user data will not be lost unless you have uninstallede or deleted it
+-The user data will not be lost unless you have uninstalled or deleted it
