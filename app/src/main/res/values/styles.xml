@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Toast Style -->
+    <style name="toastTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/magic</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:textSize">11dp</item>
+    </style>
+
+</resources>
